@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with **Project ideas using Java**
 
-- 💬 Ask me about **C, Java, AdobeXD**
+- 💬 Ask me about **C, Java**
 
 - 📫 How to reach me **dhanushbabu829@gmail.com**
 
-- ⚡ Fun fact **I am Foody**
+- ⚡ Fun fact **Software developers spend more time learning as compared to others and I'm software developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
