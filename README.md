@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Dhanush Babu K N</h1>
-<h3 align="center">A passionate Software developer | UI/UX designer | Web Developer from India</h3>
+<h3 align="center">A passionate Software developer | UI/UX designer | Salesforce developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushbabukn&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushbabukn" /> </p>
 
-- 🔭 I’m currently working on **an E-commerce website**
+- 🔭 I’m currently working on **at Finexus inc**
 
-- 🌱 I’m currently learning **Bootstrap, React, JavaScript**
+- 🌱 I’m currently learning **Salesforce, Apex, Lighting web Components Bootstrap, React, JavaScript**
 
 - 👯 I’m looking to collaborate on **Java and Web Development Projects**
 
 - 🤝 I’m looking for help with **Project ideas using Java**
 
-- 💬 Ask me about **C, Java**
+- 💬 Ask me about **C, Salesforce, Java**
 
 - 📫 How to reach me **dhanushbabu829@gmail.com**
 
-- ⚡ Fun fact **Software developers spend more time learning as compared to others and I'm software developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
